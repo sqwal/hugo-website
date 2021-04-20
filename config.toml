@@ -1,5 +1,5 @@
 title = "Planning Pascal"
-baseURL = "/hugo-website"
+baseURL = "https://hugo-website-sooty.vercel.app/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
